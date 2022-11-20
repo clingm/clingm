@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clingm
 - 👀 I’m interested in CTF/Crypto/automation
-- 🌱 I’m currently learning Crypto/c++
+- 🌱 I’m currently learning Lattice Cryptography/C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
